@@ -1,4 +1,17 @@
-### Hi there 👋
+### Project_Sentinel
+{Watcher on the Wire}
+
+- Make GitHub Repo
+
+- Practice scripting (python, powershell)
+
+- Learn tools (zeek, scapy)
+
+- Learn networks (build one)
+
+- Detection engineering
+
+- Documentation
 
 <!--
 **rebel-intel/rebel-intel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
