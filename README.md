@@ -7,7 +7,7 @@
 
 - Learn tools (zeek, scapy)
 
-- Learn networks (build one)
+- Complete home network buildout
 
 - Detection engineering
 
